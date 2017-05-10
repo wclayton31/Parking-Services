@@ -1,0 +1,1 @@
+This was a project completed in the fall of 2015. I, William Clayton, was on a group of 4 that built the website from the ground up. I worked on the structure of the database, the procedures in the database, as well as each section on the code that calls the procedures. The project can be run in Visual Studio by clicking on the ParkingServices Visual Studio Solution.
